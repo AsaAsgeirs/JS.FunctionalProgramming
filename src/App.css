@@ -1,0 +1,55 @@
+
+
+body{
+  background: #191414;
+  color: rgb(255, 255, 255);
+  padding-bottom: 50px;
+  padding-left: 40px;
+}
+
+.row{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.movie-app > .row {
+  overflow-x: auto;
+  overflow-y: hidden;
+  flex-wrap: nowrap;
+}
+
+.image-container {
+  width: 300px;
+  position: relative;
+  transition: transform .2s;
+  padding-top: 10px;
+}
+
+.image-container:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  filter: drop-shadow(0 0 0.40rem rgb(183, 183, 183));
+}
+
+.image-container:hover .overlay {
+  opacity: 2;
+}
+
+.overlay {
+  position: absolute;
+  background: rgba(0,0,0,0.8);
+  width: 300px;
+  transition: 0.5s ease;
+  opacity: 0;
+  bottom: 0;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.form-control{
+  filter: drop-shadow(0 0 0.30rem rgb(183, 183, 183));
+}
+
+.mr-2{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
