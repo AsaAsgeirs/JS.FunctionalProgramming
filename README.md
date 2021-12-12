@@ -1,3 +1,41 @@
+# JS - Functional Programming
+
+I created a react movie application, were you can search for a movie and save them in Favourites.
+- Got the movie data from OMDb API (the open movie database).
+- You can search for a movie in the right top corner, in the input field ,,Type to Search..."
+- You can save your favourite movies in localStorage by hovering over the movie cover and clicking ,,Add to Favourites"
+- To remove a movie from Favourite hover over and click on ,,Remove from Favourites"
+---------------------------------------------------------------------------------------
+I followed a tutorial on youtube, but when I finished the code from the tutorial the code didn't work as it was supposed to, I rechecked my code next to the tutorial code and didn't see any mistakes. I was able to fixed them myself which I was pretty proud of to manage! :)
+
+- I used Postman to check if the API wasn't working as it should and changed the key to a search to get a search Array.
+- I used bootstap for the layout, mobile flexbox grid.
+- Style it more in css so it would not be exactly the same as the tutorial.
+
+I hope you like it :)
+------------------------------------------------------------------------------------------
+
+<img width="1440" alt="MovieSearchApp" src="https://user-images.githubusercontent.com/89387153/145713313-d7b4d481-9956-4382-8cdb-1ffabe9ea3a9.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
