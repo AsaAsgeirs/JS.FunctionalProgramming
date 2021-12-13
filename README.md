@@ -12,6 +12,12 @@ I followed a tutorial on youtube, but when I finished the code from the tutorial
 - I used Postman to check if the API wasn't working as it should and changed the key to a search to get a search Array.
 - I used bootstap for the layout, mobile flexbox grid.
 - Style it more in css so it would not be exactly the same as the tutorial.
+---------------------------------------------------------------------------------------
+It took me forever getting the live link to work! 
+I tried Netlifly but then the API wouldn't work and I also tried GitHub Pages as I have done before with a React app, but that wouldn't also work.... I got Smári to help me, I was using npm but we installed yarn to run deploy and then the live link worked but the API didn't.
+To fix the API I only had to add **,,s"** in the end of **http://"api link"** in the API request so it was **https://"api link"** and then it all worked!
+
+> **[LIVE LINK TO THE MOVIE APP](https://asaasgeirs.github.io/JS.FunctionalProgramming/index.html)** 
 
 I hope you like it :)
 ------------------------------------------------------------------------------------------
