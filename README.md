@@ -1,4 +1,5 @@
 # JS - Functional Programming
+# Movie app - React with API
 
 I created a react movie application, were you can search for a movie and save them in Favourites.
 - Got the movie data from OMDb API (the open movie database).
