@@ -6,6 +6,7 @@ I created a react movie application, were you can search for a movie and save th
 - You can search for a movie in the right top corner, in the input field ,,Type to Search..."
 - You can save your favourite movies in localStorage by hovering over the movie cover and clicking ,,Add to Favourites"
 - To remove a movie from Favourite hover over and click on ,,Remove from Favourites"
+> **[LIVE LINK TO THE MOVIE APP](https://asaasgeirs.github.io/JS.FunctionalProgramming/index.html)** 
 ---------------------------------------------------------------------------------------
 I followed a tutorial on youtube, but when I finished the code from the tutorial the code didn't work as it was supposed to, I rechecked my code next to the tutorial code and didn't see any mistakes. I was able to fixed them myself which I was pretty proud of to manage! :)
 
@@ -16,8 +17,6 @@ I followed a tutorial on youtube, but when I finished the code from the tutorial
 It took me forever getting the live link to work! 
 I tried Netlifly but then the API wouldn't work and I also tried GitHub Pages as I have done before with a React app, but that wouldn't also work.... I got Smári to help me, I was using npm but we installed yarn to run deploy and then the live link worked but the API didn't.
 To fix the API I only had to add **,,s"** in the end of **http://"api link"** in the API request so it was **https://"api link"** and then it all worked!
-
-> **[LIVE LINK TO THE MOVIE APP](https://asaasgeirs.github.io/JS.FunctionalProgramming/index.html)** 
 
 I hope you like it :)
 ------------------------------------------------------------------------------------------
