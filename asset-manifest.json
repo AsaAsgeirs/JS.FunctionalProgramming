@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/JS.FunctionalProgramming/static/css/main.491e04cf.chunk.css",
+    "main.js": "/JS.FunctionalProgramming/static/js/main.566cfc4b.chunk.js",
+    "main.js.map": "/JS.FunctionalProgramming/static/js/main.566cfc4b.chunk.js.map",
+    "runtime-main.js": "/JS.FunctionalProgramming/static/js/runtime-main.5380349d.js",
+    "runtime-main.js.map": "/JS.FunctionalProgramming/static/js/runtime-main.5380349d.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/JS.FunctionalProgramming/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f7fa1044.chunk.js": "/JS.FunctionalProgramming/static/js/2.f7fa1044.chunk.js",
+    "static/js/2.f7fa1044.chunk.js.map": "/JS.FunctionalProgramming/static/js/2.f7fa1044.chunk.js.map",
+    "static/js/3.5c22f4e4.chunk.js": "/JS.FunctionalProgramming/static/js/3.5c22f4e4.chunk.js",
+    "static/js/3.5c22f4e4.chunk.js.map": "/JS.FunctionalProgramming/static/js/3.5c22f4e4.chunk.js.map",
+    "index.html": "/JS.FunctionalProgramming/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/JS.FunctionalProgramming/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.491e04cf.chunk.css.map": "/JS.FunctionalProgramming/static/css/main.491e04cf.chunk.css.map",
+    "static/js/2.f7fa1044.chunk.js.LICENSE.txt": "/JS.FunctionalProgramming/static/js/2.f7fa1044.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5380349d.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f7fa1044.chunk.js",
+    "static/css/main.491e04cf.chunk.css",
+    "static/js/main.566cfc4b.chunk.js"
+  ]
+}
