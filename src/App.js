@@ -14,7 +14,7 @@ function App() {
 
   /* Call to the API, to get the movies from the API  */
   const getMovieRequest = async (searchValue) => {
-    const url = `http://www.omdbapi.com/?s=${searchValue}&apikey=c284172c`; /* THE API! ${searchValue} -> passing in the search value, you get a array of the movies you search for.  */
+    const url = `https://www.omdbapi.com/?s=${searchValue}&apikey=c284172c`; /* THE API! ${searchValue} -> passing in the search value, you get a array of the movies you search for.  */
   
     const response = await fetch(url); /* Request that goes to the API (Using the fetch API to make a request from the url) */
     const responseJson = await response.json();/* Converting to JSON (converting the http response into Json) */
